@@ -1,13 +1,13 @@
 <h1 align="left">Hi there, I'm 👋 Malay</h1>
 <img align="center" alt="Ross saying Hi" width="400" src="https://c.tenor.com/mZO_FZIjgTgAAAAd/ross-friends.gif">
 
-<h3 align="left">I am a final year undergrad student based out of Bangalore</h3>
+<h3 align="left">I am a software engineer with over 2.5 years of experience, based out of Bangalore.</h3>
 
 - <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="35" height="35"/> I watch a lot of **anime xD**
 
 - 🌱 I’m currently spending my time on learning **C++ and AI&ML**
 
-- 💻 I work on backend development with **Django**
+- 💻 I work on backend development with **Django** **NodeJS** and **Golang**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
