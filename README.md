@@ -1,17 +1,10 @@
-<h2 align="left">Hi there👋, 
-  <br />
-  I'm Malay Anand
-</h2>
-<img align="center" alt="Ross saying Hi" width="400" src="https://c.tenor.com/mZO_FZIjgTgAAAAd/ross-friends.gif">
+# Hi, I'm Malay Anand 👋
 
-<h3 align="left">I am a software engineer with over 2.5 years of experience, based out of Bangalore.</h3>
+I'm a backend developer focused on designing and building scalable, reliable systems. My experience spans developing distributed services in Go, integrating complex data pipelines, and architecting event-driven solutions.
 
-- I watch a lot of **anime xD**
-- I’m currently spending my time on learning **C++ and AI&ML**
-- I work on backend development with **Golang** **NodeJS** and **Django**
-- Connect with me: **manand65@gmail.com**
+I believe the next generation of software will deeply integrate AI into its core, rather than treating it as an afterthought. I'm excited about building robust systems ready to evolve with this shift.
 
-<p align="left">
-<a href="https://linkedin.com/in/anandmalay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anandmalay" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/_malayanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_malayanand" height="30" width="40" /></a>
-</p>
+---
+
+### Links
+[LinkedIn](https://www.linkedin.com/in/malayanand) • [Email](mailto:malay.anand@example.com) • [GitHub](https://github.com/malayanand)
